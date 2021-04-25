@@ -1,0 +1,22 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hlry/social-network-api.git"
+  },
+  "author": "hlry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hlry/social-network-api/issues"
+  },
+  "homepage": "https://github.com/hlry/social-network-api#readme",
+  "dependencies": {
+    "mongoose": "^5.12.5"
+  }
+}
