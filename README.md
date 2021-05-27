@@ -45,5 +45,5 @@ This repository is licensed under the ISC license.
 
 ## Questions
 
-Please contact me with any questions about this project onon
+Please contact me with any questions about this project on
 GitHub @ [hlry](https://github.com/hlry) 
